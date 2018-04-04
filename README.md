@@ -1,2 +1,2 @@
 # LongDifferencingEstimator
-Capitol Structur, Speed of Adjustment, Long Differencing Estimator
+Capital Structure, Speed of Adjustment, Long Differencing Estimator
